@@ -1,0 +1,133 @@
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe.config
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csprojResolveAssemblyReference.cache
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.dangnhap.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Form1.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.khachhangthanthiet.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.menu.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.phieudathang.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Properties.Resources.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QLHH.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QLNV.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.qlxuatkho.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QUANLYNHAPKHO.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.thongkesanpham.resources
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csproj.GenerateResource.Cache
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\duynh\OneDrive\Máy tính\OLAP\Nhom14_HuaDangKhoi\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe.config
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csprojResolveAssemblyReference.cache
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.dangnhap.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Form1.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.khachhangthanthiet.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.menu.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.phieudathang.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Properties.Resources.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QLHH.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QLNV.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.qlxuatkho.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QUANLYNHAPKHO.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.thongkesanpham.resources
+C:\Users\duynh\OneDrive\Máy tính\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe.config
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.dangnhap.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Form1.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.khachhangthanthiet.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.menu.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.phieudathang.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Properties.Resources.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QLHH.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QLNV.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.qlxuatkho.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QUANLYNHAPKHO.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.thongkesanpham.resources
+C:\Users\User\Downloads\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csproj.GenerateResource.Cache
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe.config
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csprojResolveAssemblyReference.cache
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.dangnhap.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.menu.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Properties.Resources.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QUANLYNHAPKHO.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.thongkesanpham.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csproj.GenerateResource.Cache
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyNhanVien.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyBanHang.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyHangHoa.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyDichVu.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLySuaChua.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyNhaCungCap.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyDatHang.resources
+C:\Users\btooo\Downloads\Phan-tich-thiet-ke-HTTT-2\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyXuatKho.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe.config
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.pdb
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.DangNhap.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyBanHang.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Menu.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyDatHang.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyDichVu.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyNhaCungCap.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLySuaChua.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Properties.Resources.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyHangHoa.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyNhanVien.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyXuatKho.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyNhapKho.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.ThongKeSanPham.resources
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csproj.GenerateResource.Cache
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.exe
+C:\DevPrograms\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe.config
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.pdb
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csprojResolveAssemblyReference.cache
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.DangNhap.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyBanHang.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Menu.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyDatHang.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyDichVu.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyNhaCungCap.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLySuaChua.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Properties.Resources.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyHangHoa.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyNhanVien.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyXuatKho.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyNhapKho.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.ThongKeSanPham.resources
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csproj.GenerateResource.Cache
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe
+C:\Users\btooo\Downloads\DoAnCongNghePhanMem\DoAnCongNghePhanMem\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.pdb
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe.config
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.exe
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.pdb
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.exe
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\bin\Debug\Phan tich thiet ke HTTT.pdb
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.DangNhap.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyBanHang.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Menu.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyDatHang.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyDichVu.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLyNhaCungCap.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.QuanLySuaChua.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.Properties.Resources.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyHangHoa.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyNhanVien.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyXuatKho.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.QuanLyNhapKho.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.ThongKeSanPham.resources
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan tich thiet ke HTTT.csproj.GenerateResource.Cache
+C:\DevPrograms\DoAnCongNghePhanMem (2)\Phan tich thiet ke HTTT\Phan tich thiet ke HTTT\obj\Debug\Phan_tich_thiet_ke_HTTT.GUI.KiemTraKetNoiDatabase.resources

@@ -1,0 +1,86 @@
+create proc thanhtiencthd @mahd char(10), @masp char(10)
+as
+	update ct_hoadon
+	set thanhtien = soluong * (select gia from sanpham where masp = @masp)
+	where mahd = @mahd and masp = @masp
+go
+
+create proc tongtienhd @mahd char(10)
+as
+	update hoadon
+	set tongtien = (select sum(thanhtien) from ct_hoadon where ct_hoadon.mahd = hoadon.mahd)
+	where mahd = @mahd
+go
+
+create proc thanhtiencthddv @sohd char(10), @madv char(10)
+as
+	update CT_HD_DICHVU
+	set THANHTIEN = SOLUONGDV * (select DONGIA from DICHVU where madv = @madv)
+	where sohd = @sohd and madv = @madv
+go
+
+create proc tongtienhddv @sohd char(10)
+as
+	update HD_DICHVU
+	set tongtien = (select sum(thanhtien) from ct_hd_dichvu where ct_hd_dichvu.sohd = HD_DICHVU.sohd)
+	where sohd = @sohd
+go
+
+create proc tongtienpdh @sophieu char(10)
+as
+	update phieudathang
+	set tongtien = (select sum(thanhtien) from ct_phieudathang where ct_phieudathang.sophieu = phieudathang.sophieu)
+	where sophieu = @sophieu
+go
+
+CREATE TRIGGER TR_THEMH
+ON CT_PHIEUNHAP 
+FOR INSERT AS
+BEGIN
+	DECLARE @sl INT, @masp char(10); 
+	SELECT @sl = SOLUONG  FROM inserted ;
+	SELECT @masp = MASP FROM inserted ;
+	UPDATE SANPHAM
+	SET SOLUONG = SOLUONG + @sl
+	WHERE MASP= @masp;
+END
+GO
+
+CREATE TRIGGER TR_XOAMH
+	ON CT_PHIEUNHAP 
+	FOR DElETE AS
+	BEGIN
+		DECLARE @sl INT, @masp char(10); 
+		SELECT @sl = SOLUONG  FROM deleted ;
+		SELECT @masp = MASP FROM deleted ;
+		UPDATE SANPHAM
+		SET SOLUONG = SOLUONG - @sl
+		WHERE MASP= @masp;
+	END
+GO
+
+CREATE TRIGGER TR_THEMXK
+	ON CT_PHIEUXUAT 
+	FOR INSERT AS
+	BEGIN
+		DECLARE @sl INT, @masp char(10); 
+		SELECT @sl = SOLUONG  FROM inserted ;
+		SELECT @masp = MASP FROM inserted ;
+		UPDATE SANPHAM
+		SET SOLUONG = SOLUONG - @sl
+		WHERE MASP= @masp;
+	END
+GO
+
+CREATE TRIGGER TR_XOAXK
+	ON CT_PHIEUXUAT 
+	FOR DELETE AS
+	BEGIN
+		DECLARE @sl INT, @masp char(10); 
+		SELECT @sl = SOLUONG  FROM deleted ;
+		SELECT @masp = MASP FROM deleted ;
+		UPDATE SANPHAM
+		SET SOLUONG = SOLUONG + @sl
+		WHERE MASP= @masp;
+	END
+GO

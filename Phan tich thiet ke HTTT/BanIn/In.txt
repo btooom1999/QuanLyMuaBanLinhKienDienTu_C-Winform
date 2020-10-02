@@ -1,0 +1,18 @@
+                                Thống Kê Sản Phẩm
+
+Danh sách sản phẩm
+
+Mã Sản Phẩm    Tên Sản Phẩm      Số lượng Tồn
+SP001          Chuột Razer           20
+SP002          Chuột Logitech        40
+SP003          Bàn phím Dell         11
+SP004          Bàn phím Ailenwere    25
+SP005          Tai nghe Razer        40
+SP006          Tai nghe Asus         22
+SP007          Tay cầm Xbox 360      43
+SP008          Tay cầm Xbox One S    25
+SP009          Pad Ailenwere         25
+SP010          Pad Dell              50
+SP011          Pad Corsair           0
+
+Tổng sản phẩm tồn: 301
